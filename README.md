@@ -15,7 +15,7 @@ Needs Windows 10/11 and Google Chrome. Can't run installers? Use the zip on the 
 ## What's new in 1.1.0
 
 - Several instances at once, one Chrome tab each
-- Weekly passwords straight from the instance tracker
+- Weekly passwords straight from the instance tracker (OneDrive Based, Read Access only)
 - Clear message when a password is rejected
 
 ## Check your download
